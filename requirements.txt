@@ -1,0 +1,17 @@
+# Core
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+
+# AI & Voice
+google-genai>=1.5.0
+gTTS>=2.5.0
+
+# Data & Async
+httpx>=0.27.0
+
+# UI Enhancements
+audio-recorder-streamlit>=0.0.8
+streamlit-lottie>=0.0.5
+
+# Utilities
+pandas>=2.0.0
